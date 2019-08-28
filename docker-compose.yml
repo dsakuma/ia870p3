@@ -1,0 +1,8 @@
+jupyter:
+  build: .
+  dockerfile: Dockerfile
+  ports:
+    - 8888:8888
+  volumes:
+    - .:/opt/app
+  working_dir: /opt/app
