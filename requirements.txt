@@ -1,3 +1,6 @@
-jupyterlab==1.0.9
-numpy==1.17.1
-pillow==6.1.0
+jupyterlab
+numpy
+scipy
+pillow
+ia636
+adpil
